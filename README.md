@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_A_TU_BANNER_AQUI" alt="Cyber Sigilism Banner" width="100%">
+  <img src="https://github.com/estebantkb/estebantkb/blob/main/jpg(2)" alt="Cyber Sigilism Banner" width="100%">
   
   <br><br>
 
