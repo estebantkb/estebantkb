@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <th align="left">
-        <code>◯ ◯ ◯ &nbsp; esteban@narvaez: ~ — kitty (zsh 5.9) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [UTF-8]</code>
+        <code>◯ ◯ ◯ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [UTF-8]</code>
       </th>
     </tr>
   </thead>
@@ -12,9 +12,9 @@
         <!--  -->
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1400&color=FFFFFF&background=00000000&center=false&vCenter=true&width=680&lines=~+%E2%9D%AF+./init_session.sh+--user%3Desteban;~+%E2%9D%AF+Loading+kernel+modules+%26+backend+architecture...;~+%E2%9D%AF+fastfetch+--logo+cyberskull" alt="Terminal Init" />
 <pre>
-        \.       .',;::::;,'.       ./           <b>esteban@narvaez</b>
-         \\  .';:cccccccccccc:;,.  //            ---------------
-          \\;cccccccccccccccccccc;//             <b>Name</b>: Esteban Narváez
+        \.       .',;::::;,'.       ./           
+         \\  .';:cccccccccccc:;,.  //            <b>esteban@narvaez</b>
+          \\;cccccccccccccccccccc;//             ----------------------
         .:cccccccccccccccccccccccccc:.           <b>Career</b>: Information Systems Engineering
        .;cccccccccccccccccccccccccccc;.          <b>Role</b>: Backend Developer &amp; SysAdmin
       .:cccccccccccccccccccccccccccccc:.         <b>OS</b>: Fedora Linux 44 (KDE Plasma / Wayland)
