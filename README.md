@@ -19,16 +19,16 @@
        .;cccccccccccccccccccccccccccc;.          <b>Role</b>: Backend Developer &amp; SysAdmin
       .:cccccccccccccccccccccccccccccc:.         <b>OS</b>: Fedora Linux 44 (KDE Plasma / Wayland)
       ,ccccccc:;'..        ..';:ccccccc,         <b>Kernel</b>: Bare-Metal / Performance Tuned
-      :cccc:'.      .;::;.      .':cccc:         <b>Uptime</b>: 24/7 [AC Connected]
-      :ccc:.       :cccccc:       .:ccc:         <b>Shell</b>: zsh 5.9 (Powerlevel10k)
-      'ccc:.      .cccccccc.      .:ccc'         <b>Terminal</b>: kitty 0.47.1
+      :cccc:'.      .;::;.      .':cccc:         <b>Uptime</b>: 24/7 
+      :ccc:.       :cccccc:       .:ccc:         <b>Shell</b>: zsh 
+      'ccc:.      .cccccccc.      .:ccc'         <b>Terminal</b>: kitty 
        ;ccc:;'...;cccc..cccc;...';:ccc;          <b>Backend</b>: Java, Spring Boot, Python
         'ccccccccccc:.  .:ccccccccccc'           <b>Frontend</b>: React
           ':ccccccccc;..;ccccccccc:'             <b>Databases</b>: PostgreSQL, MariaDB, MySQL
             .,:cccccccccccccccc:,.               <b>Containers</b>: Docker
-              :ccc|c|c||c|c|ccc:                 <b>Distros</b>: Fedora, Arch Linux, Kali Linux
+              :ccc|c|c||c|c|ccc:                 <b>Distros</b>: Fedora, Arch Linux
               :ccc|c|c||c|c|ccc:                 <b>Tools</b>: IntelliJ IDEA, Postman, Git
-          ..  'cccccccccccccccc'  ..             <b>Hardware</b>: PC Tuning &amp; Linux Optimization
+          ..  'cccccccccccccccc'  ..             <b>Hardware</b>: PC Tuning &amp; 
         .;c:.  .':cccccccccc:'.  .:c;.           <b>Downtime</b>: Video Games, Nu Metal &amp; Anime
       .;c:.       .';::::;'.       .:c;.         <b>Locale</b>: es_EC.UTF-8 / en_US.UTF-8
      .::.                            .::.        <b>Status</b>: System Optimized. Ready.
