@@ -3,7 +3,7 @@
   
   <br><br>
 
-  <h1> ᚲ  ESTEBAN NARVÁEZ  ᚲ </h1>
+  <h1>   ESTEBAN NARVÁEZ   </h1>
   <p><b> Software Engineering | Backend & Systems </b></p>
   <p><i> "Writing clean code, pushing hardware to its limits, and enjoying the ride." </i></p>
 
