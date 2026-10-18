@@ -36,8 +36,8 @@
         <hr>
         <p><code>~ ❯ cat about_me.txt</code></p>
         <blockquote>
-          <p><b><code>&gt; Hello, world.</code></b> I'm <b>Esteban</b>, an <b>Information Systems Engineering</b> student based in Ecuador. I like understanding how systems actually work under the hood—from designing solid <b>backend architectures</b> and relational databases to tuning <b>Linux environments</b> and squeezing every drop of performance out of my hardware.</p>
-          <p>I don't claim to know it all, but I know how to <i>break things apart</i>, debug the core, and figure them out. When I'm away from the terminal, you'll probably find me grinding video games, exploring dark digital aesthetics, or listening to good rock music.</p>
+          <p><b><code>&gt; Hello, world.</code></b> I'm <b>Esteban</b>, an <b>Information Systems Engineering</b> student based in Ecuador. I like understanding how systems actually work under the hood—from designing solid <b>backend architectures</b> and relational databases to squeezing every drop of performance out of my hardware.</p>
+          <p>I don't claim to know it all, but I know how to <i>break things apart</i>, debug the core, and figure them out. When I'm away from the terminal, you'll probably find me grinding video games or listening to good music.</p>
         </blockquote>
         <hr>
         <p><code>~ ❯ ls -la /modules/arsenal/</code></p>
