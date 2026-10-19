@@ -3,7 +3,7 @@
   <thead>
     <tr>
       <th align="left">
-        <code>◯ ◯ ◯ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [UTF-8]</code>
+        <code>◯ ◯ ◯ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; esteban@narvaez: ~ (zsh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [UTF-8]</code>
       </th>
     </tr>
   </thead>
@@ -11,39 +11,39 @@
     <tr>
       <td align="left">
         <a name="terminal-init">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1400&color=FFFFFF&background=00000000&center=false&vCenter=true&width=820&lines=~+%E2%9D%AF+./init_session.sh+--user%3Desteban;~+%E2%9D%AF+Loading+kernel+modules+%26+backend+architecture...;~+%E2%9D%AF+fastfetch+--logo+cybersigil" alt="Terminal Init" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1400&color=FFFFFF&background=00000000&center=false&vCenter=true&width=860&lines=~+%E2%9D%AF+./init_session.sh+--user%3Desteban;~+%E2%9D%AF+Loading+kernel+modules+%26+backend+architecture...;~+%E2%9D%AF+fastfetch+--logo+cybersigil" alt="Terminal Init" />
         </a>
         <div align="center">
 <pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⣤⠐⣿⢠⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠉⠀⠀⡯⠀⠈⠙⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀<b>esteban@narvaez</b>                          
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢤⣸⠀⠀⠀⠀⠀⠀⠀⡷⠀⠀⠀⠀⣹⣂⡀⠀⠀⠀⠀⠀⠀---------------------------------------- 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢦⣏⠄⠀⠀⣀⡄⠀⠀⡟⠀⠀⢀⣀⡉⠽⢯⣁⠀⠀⠀⠀⠀<b>Career</b>     : Information Systems Engineering
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠿⡏⡆⠀⠀⠝⠀⠀⢠⠃⡆⠀⠋⠘⠑⣷⡏⠀⠀⠀⠀⠀⠀<b>Role</b>       : Backend Developer &amp; SysAdmin
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡯⡯⢀⣀⡻⣆⠀⠈⢶⡇⠀⠀⠀⠨⣵⣵⡗⠀⠀⠀⠀⠀<b>OS</b>         : Fedora Linux 44 (KDE / Wayland)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡛⣟⣷⢾⠟⢺⡮⣿⠆⢼⡇⠐⢢⡀⣤⡿⡯⠛⠀⠀⠀⠀⠀<b>Kernel</b>     : Bare-Metal / Performance Tuned
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⡍⠈⠒⠀⠙⠼⠦⣿⢕⣖⠸⣂⣟⠟⠃⠀⠀⠀⠀⠀⠀<b>Uptime</b>     : 24/7                        
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠍⣩⣍⠉⡇⠞⣻⣾⠓⠉⠉⠟⣱⠟⣿⠯⠭⠍⠉⠉⠉⠉⠛⠛⠋⠀<b>Shell</b>      : zsh                         
-⠀⠀⠀⠀⠀⢠⠔⠒⠖⢦⢦⣄⣤⣼⣫⣆⡇⡇⣽⣧⣀⣀⣠⡉⢾⡾⡵⠲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Terminal</b>   : kitty                       
-⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠙⢾⡗⣤⡀⢈⣿⣇⣡⣀⡴⠋⠀⠀⢩⡇⠻⣣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Backend</b>    : Java, Spring Boot, Python   
-⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣸⡽⣀⡹⣿⣗⣯⣿⡯⢀⡀⠀⠀⢸⡇⠀⠀⠉⠑⠲⠤⠀⠀⠀⠀⠀⠀<b>Frontend</b>   : React                       
-⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⡱⢹⣸⣿⣿⣿⢿⣶⠏⣾⣾⣷⣶⣶⢾⠷⠶⠶⠶⠎⠁⠀⠀⠀⠀⠀⠀⠀<b>Databases</b>  : PostgreSQL, MariaDB, MySQL  
-⠀⠀⠀⠀⠀⡀⠀⠀⠀⠤⣌⠇⣈⣉⡹⡁⢹⠰⡟⠁⠀⠺⣻⠂⠀⠸⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Containers</b> : Docker                      
-⠀⠀⠀⠀⠀⠉⠛⠩⠭⠝⢳⢩⢹⡄⢘⠇⠈⡆⠏⠀⠀⠀⠈⣇⠀⠸⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Distros</b>    : Fedora, Arch Linux, Kali    
-⠀⠀⠀⠀⠀⠀⠀⠀⣀⣎⢸⠉⠉⠉⢀⠀⠇⠃⠀⠀⠀⠀⠸⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Tools</b>      : IntelliJ IDEA, Postman, Git 
-⠀⠀⠀⠀⠀⠀⠀⠀⠁⣹⠀⡣⡀⠀⢀⠹⣆⢿⠉⠁⠀⠀⠀⠀⠰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Hardware</b>   : PC Tuning &amp; Custom Builds   
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⡆⢫⠍⠓⠋⢰⠅⡾⡀⠀⠀⠀⠀⠀⢀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Downtime</b>   : Video Games, Nu Metal &amp; Anime
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⢡⠀⠀⠀⠀⠀⠆⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Locale</b>     : es_EC.UTF-8 / en_US.UTF-8   
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢆⢇⠀⠀⠀⢰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Status</b>     : System Optimized. Ready.    
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢪⢢⠀⠀⢸⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢗⣄⢸⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢽⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠊⠘⠒⠦⢤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⣤⠐⣿⢠⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠉⠀⠀⡯⠀⠈⠙⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>esteban@narvaez</b>                          
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢤⣸⠀⠀⠀⠀⠀⠀⠀⡷⠀⠀⠀⠀⣹⣂⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀---------------------------------------- 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢦⣏⠄⠀⠀⣀⡄⠀⠀⡟⠀⠀⢀⣀⡉⠽⢯⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Career</b>     : Information Systems Engineering
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠿⡏⡆⠀⠀⠝⠀⠀⢠⠃⡆⠀⠋⠘⠑⣷⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Role</b>       : Backend Developer &amp; SysAdmin
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡯⡯⢀⣀⡻⣆⠀⠈⢶⡇⠀⠀⠀⠨⣵⣵⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>OS</b>         : Fedora Linux 44 (KDE / Wayland)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡛⣟⣷⢾⠟⢺⡮⣿⠆⢼⡇⠐⢢⡀⣤⡿⡯⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Kernel</b>     : Bare-Metal / Performance Tuned
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⡍⠈⠒⠀⠙⠼⠦⣿⢕⣖⠸⣂⣟⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Uptime</b>     : 24/7                        
+⠀⠀⠀⠀⠀⠀⠀⠈⠉⠍⣩⣍⠉⡇⠞⣻⣾⠓⠉⠉⠟⣱⠟⣿⠯⠭⠍⠉⠉⠉⠉⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀<b>Shell</b>      : zsh                         
+⠀⠀⢠⠔⠒⠖⢦⢦⣄⣤⣼⣫⣆⡇⡇⣽⣧⣀⣀⣠⡉⢾⡾⡵⠲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Terminal</b>   : kitty                       
+⠀⠀⠉⠀⠀⠀⠀⠙⢾⡗⣤⡀⢈⣿⣇⣡⣀⡴⠋⠀⠀⢩⡇⠻⣣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Backend</b>    : Java, Spring Boot, Python   
+⠀⠀⠀⢀⣀⣀⣀⣀⣸⡽⣀⡹⣿⣗⣯⣿⡯⢀⡀⠀⠀⢸⡇⠀⠀⠉⠑⠲⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Frontend</b>   : React                       
+⠀⠀⠀⠀⠀⠉⠉⡱⢹⣸⣿⣿⣿⢿⣶⠏⣾⣾⣷⣶⣶⢾⠷⠶⠶⠶⠎⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Databases</b>  : PostgreSQL, MariaDB, MySQL  
+⠀⠀⡀⠀⠀⠀⠤⣌⠇⣈⣉⡹⡁⢹⠰⡟⠁⠀⠺⣻⠂⠀⠸⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Containers</b> : Docker                      
+⠀⠀⠉⠛⠩⠭⠝⢳⢩⢹⡄⢘⠇⠈⡆⠏⠀⠀⠀⠈⣇⠀⠸⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Distros</b>    : Fedora, Arch Linux, Kali    
+⠀⠀⠀⠀⠀⣀⣎⢸⠉⠉⠉⢀⠀⠇⠃⠀⠀⠀⠀⠸⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Tools</b>      : IntelliJ IDEA, Postman, Git 
+⠀⠀⠀⠀⠀⠁⣹⠀⡣⡀⠀⢀⠹⣆⢿⠉⠁⠀⠀⠀⠀⠰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Hardware</b>   : PC Tuning &amp; Custom Builds   
+⠀⠀⠀⠀⠀⠀⠨⡆⢫⠍⠓⠋⢰⠅⡾⡀⠀⠀⠀⠀⠀⢀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Downtime</b>   : Video Games, Nu Metal &amp; Anime
+⠀⠀⠀⠀⠀⠀⠀⢣⢡⠀⠀⠀⠀⠀⠆⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Locale</b>     : es_EC.UTF-8 / en_US.UTF-8   
+⠀⠀⠀⠀⠀⠀⠀⠈⢆⢇⠀⠀⠀⢰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<b>Status</b>     : System Optimized. Ready.    
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⢪⢢⠀⠀⢸⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢗⣄⢸⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢽⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠊⠘⠒⠦⢤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
         </div>
         <hr>
@@ -94,7 +94,7 @@
           </p>
         </div>
         <a name="terminal-prompt">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=2000&color=AAAAAA&background=00000000&center=false&vCenter=true&width=820&lines=~+%E2%9D%AF+echo+%22Minimalist+on+the+outside%2C+complex+on+the+inside.%22;~+%E2%9D%AF+status%3A+session+active+%E2%80%94+awaiting+input...;~+%E2%9D%AF+_" alt="Active Prompt" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=2000&color=AAAAAA&background=00000000&center=false&vCenter=true&width=860&lines=~+%E2%9D%AF+echo+%22Minimalist+on+the+outside%2C+complex+on+the+inside.%22;~+%E2%9D%AF+status%3A+session+active+%E2%80%94+awaiting+input...;~+%E2%9D%AF+_" alt="Active Prompt" />
         </a>
       </td>
     </tr>
